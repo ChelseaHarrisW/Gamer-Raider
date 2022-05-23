@@ -1,0 +1,47 @@
+[
+    {
+        "model": "raterapi.game",
+        "pk": 1,
+        "fields": {
+            "title": "Koala chase Game",
+            "designer": "koala keeper",
+            "description": "Movie trivia game",
+            "year_released": 2008,
+            "number_of_players":6,
+            "age_recomendations":25,
+            "creator":1,
+            "estimated_time_to_play":"2 hours"
+
+
+
+        }
+    },
+    {
+        "model": "raterapi.game",
+        "pk": 2,
+        "fields": {
+            "title": "Monopoly",
+            "designer": "Parker Brothers",
+            "description": "Monopoly is a multi-player board game. In the game, players roll two dice to move around the game board, buying and trading properties, and developing them with houses and hotels.",
+            "year_released": 1935,
+            "number_of_players":9,
+            "age_recomendations":7,
+            "creator":1,
+            "estimated_time_to_play":"20-180 minutes"
+        }
+    },
+    {
+        "model": "raterapi.game",
+        "pk": 3,
+        "fields": {
+            "title": "Room reading",
+            "designer": "Chelsea",
+            "description": "This fun little is a master class of how to red a room, to prevent you from falling into the boobies trap of overactive outburst Cha-chow  :)",
+            "year_released": 1994,
+            "number_of_players":4,
+            "age_recomendations":8,
+            "creator":1,
+            "estimated_time_to_play":"1-2 hours"
+        }
+    }
+]
